@@ -1,1 +1,1 @@
-# hello-c50
+# hello-cs50
